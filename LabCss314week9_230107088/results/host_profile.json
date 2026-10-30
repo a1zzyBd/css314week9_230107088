@@ -1,0 +1,20 @@
+{
+  "model": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+  "base_mhz": 2900,
+  "physical_cores": 8,
+  "caches": {
+    "l1": null,
+    "l2": 4194304,
+    "l3": 8388608,
+    "line_size": 64
+  },
+  "logical_threads": 16,
+  "smt_enabled": true,
+  "machine": "AMD64",
+  "kernel": "11",
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": {
+    "impl": "CPython",
+    "version": "3.14.2"
+  }
+}

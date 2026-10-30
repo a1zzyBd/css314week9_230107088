@@ -1,0 +1,13 @@
+{
+  "flops_per_point": 4,
+  "dram_bytes_per_point": 16,
+  "arithmetic_intensity": 0.25,
+  "peak_gflops_estimate": 371.2,
+  "bandwidth_gbs": 18.244098533742246,
+  "ridge_point": 20.346305371760074,
+  "attainable_gflops": 4.5610246334355615,
+  "working_set_bytes": 37748736,
+  "l3_bytes": 8388608,
+  "fits_in_l3": false,
+  "regime": "memory-bandwidth bound"
+}

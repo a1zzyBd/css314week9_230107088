@@ -1,0 +1,18 @@
+Run from inside this folder (lab-submission):
+
+    pip install numpy psutil
+    pip install numba          (optional; if it fails, dense_kernel.py falls back to pure Python, M=128)
+
+    python run_all.py          (runs everything, ~3-6 minutes)
+
+or one script at a time:
+
+    python src/profile_env.py
+    python src/stride_bench.py
+    python src/dense_kernel.py
+    python src/false_sharing.py
+    python src/scaling_study.py
+    python src/check_results.py
+
+Student ID 230107088 is set in src/paths.py. Results go to results/.
+Close other programs while benchmarking so timings are clean.

@@ -1,0 +1,11 @@
+{
+  "N": 1536,
+  "M": 768,
+  "numba": true,
+  "t_naive_s": 3.876703100017039,
+  "t_interchanged_s": 1.2426205000083428,
+  "speedup": 3.119780415654668,
+  "max_abs_diff_ijk_vs_ikj": 0.0,
+  "max_abs_diff_vs_numpy": 7.673861546209082e-13,
+  "tolerance_ok": true
+}
